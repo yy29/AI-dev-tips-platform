@@ -8,6 +8,7 @@
 
 #### Self-hosted Model and API
 - Ollama ([Github](https://github.com/ollama/ollama), [Website](https://ollama.com/))
+- vLLM ([Github](https://github.com/vllm-project/vllm), [Website](https://vllm.ai/)
 
 #### Cloud GPU Machine
 - AWS EC2
