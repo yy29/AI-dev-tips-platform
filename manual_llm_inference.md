@@ -15,6 +15,8 @@
 
 #### AI Oriented UI
 - Open WebUI ([Github](https://github.com/open-webui/open-webui), [Website](https://openwebui.com/))
+- AnythingLLM ([Github](https://github.com/Mintplex-Labs/anything-llm), [Website](https://anythingllm.com/))
+- LibreChat ([Github](https://github.com/danny-avila/LibreChat), [Website](https://www.librechat.ai/))
 - Gradio ([Github](https://github.com/gradio-app/gradio), [Website](https://www.gradio.app/))
 - Streamlit ([Github](https://github.com/streamlit/streamlit), [Website](https://streamlit.io/))
 
