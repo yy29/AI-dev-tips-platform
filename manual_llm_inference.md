@@ -13,10 +13,12 @@
 #### Cloud GPU Machine
 - AWS EC2 ([Website](https://aws.amazon.com/ec2/))
 
-#### AI Oriented UI
+#### AI UI Apps
 - Open WebUI ([Github](https://github.com/open-webui/open-webui), [Website](https://openwebui.com/))
 - AnythingLLM ([Github](https://github.com/Mintplex-Labs/anything-llm), [Website](https://anythingllm.com/))
-- LibreChat ([Github](https://github.com/danny-avila/LibreChat), [Website](https://www.librechat.ai/))
+- LibreChat ([Github](https://github.com/danny-avila/LibreChat), [Website](https://www.librechat.ai/))c
+
+#### AI UI Development
 - Gradio ([Github](https://github.com/gradio-app/gradio), [Website](https://www.gradio.app/))
 - Streamlit ([Github](https://github.com/streamlit/streamlit), [Website](https://streamlit.io/))
 
