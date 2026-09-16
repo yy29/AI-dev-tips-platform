@@ -1,17 +1,17 @@
 ## LLM Inferencing Strategy
 
-#### Cloud Model and API
+#### API-based Cloud Model
 - OpenAI ([pricing](https://openai.com/api/pricing/))
 - AWS Bedrock ([pricing](https://aws.amazon.com/bedrock/pricing/))
-- Google AI Studio
+- Google AI Studio ([info](https://aistudio.google.com/))
 - NVIDIA AI ([info](https://build.nvidia.com/))
 
-#### Self-hosted Model and API
+#### API-based Self-hosted Model
 - Ollama ([Github](https://github.com/ollama/ollama), [Website](https://ollama.com/))
 - vLLM ([Github](https://github.com/vllm-project/vllm), [Website](https://vllm.ai/))
 
 #### Cloud GPU Machine
-- AWS EC2
+- AWS EC2 ([Website](https://aws.amazon.com/ec2/))
 
 #### AI Oriented UI
 - Open WebUI ([Github](https://github.com/open-webui/open-webui), [Website](https://openwebui.com/))
