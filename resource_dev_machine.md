@@ -4,7 +4,7 @@
 - NVIDIA RTX PRO 6000 Blackwell Workstation Edition (96GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX PRO 5500 Blackwell Workstation Edition (84GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX PRO 5000 Blackwell (48GB/72GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
-- NVIDIA RTX PRO 4500 Blackwell (32GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
+- NVIDIA RTX PRO 4500 Blackwell Workstation Edition (32GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX PRO 4000 Blackwell (24GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX PRO 2000 Blackwell (16GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX 5090 (32GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
