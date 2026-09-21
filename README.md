@@ -1,9 +1,9 @@
 # AI Development Environment
 
 ### Resource
-- Compute Machines & Accessories: ([resource_dev_machine.md](resource_dev_machine.md))
-- System Development Tools: ([resource_dev_tool.md](resource_dev_tool.md))
-- AI Development Tools: ([resource_dev_tool_ai.md](resource_dev_tool_ai.md))
+- Compute Machines & Accessories: [resource_dev_machine.md](resource_dev_machine.md)
+- System Development Tools: [resource_dev_tool.md](resource_dev_tool.md)
+- AI Development Tools: [resource_dev_tool_ai.md](resource_dev_tool_ai.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - [setup_aws_dlami.md](setup_aws_dlami.md)
