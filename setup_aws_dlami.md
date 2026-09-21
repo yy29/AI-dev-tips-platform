@@ -46,7 +46,7 @@ sudo apt install language-pack-ja
 ### (5) Create Non-root User with Password
 ```
 sudo useradd -m -s /bin/bash <username>
-echo "username:newpassword123" | sudo chpasswd
+echo "<username>:<password>" | sudo chpasswd
 ```
 
 ### (6) Setup Non-root User Environment
