@@ -8,15 +8,11 @@
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - [setup_aws_dlami.md](setup_aws_dlami.md)
 
-### Manual: LLM Training
+### Manual: LLM Development
 - Overall Training Flow: [manual_llm_creation.md](manual_llm_creation.md)
 - Pretraining: [manual_llm_pretraining.md](manual_llm_pretraining.md)
-
-### Manual: LLM Evaluation
 - Evaluation: [manual_llm_evaluation.md](manual_llm_evaluation.md)
-
-### Manual: LLM Inferencing & Deployment
-- Inference: [manual_llm_inference.md](manual_llm_inference.md)
+- Inference & Deployment: [manual_llm_inference.md](manual_llm_inference.md)
 
 # Additional Tips
 
